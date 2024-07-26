@@ -1,7 +1,5 @@
 //Created by Daniel on 24-07-2024
 
-import static ru.androeed.Initialization.launchActivity;
-
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Context;
